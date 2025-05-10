@@ -3,6 +3,6 @@
   publish = "frontend/build"
   command = "npm run build"
 
-[[plugins]]
+[plugins]
   package = "@netlify/plugin-golang"
   version = "1.24.2"
